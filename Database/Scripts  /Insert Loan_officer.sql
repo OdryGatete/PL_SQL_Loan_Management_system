@@ -1,0 +1,21 @@
+-- Insert 20 Loan Officers
+INSERT INTO loan_officer (first_name, last_name, branch, email) VALUES ('Jean', 'Mukasa', 'Kigali Main Branch', 'jean.mukasa1@example.com');
+INSERT INTO loan_officer (first_name, last_name, branch, email) VALUES ('Claude', 'Habimana', 'Gisenyi Branch', 'claude.habimana2@example.com');
+INSERT INTO loan_officer (first_name, last_name, branch, email) VALUES ('Alice', 'Uwase', 'Kigali Main Branch', 'alice.uwase3@example.com');
+INSERT INTO loan_officer (first_name, last_name, branch, email) VALUES ('Emmanuel', 'Niyonzima', 'Huye Branch', 'emmanuel.niyonzima4@example.com');
+INSERT INTO loan_officer (first_name, last_name, branch, email) VALUES ('Liliane', 'Mukandayisenga', 'Rubavu Branch', 'liliane.mukandayisenga5@example.com');
+INSERT INTO loan_officer (first_name, last_name, branch, email) VALUES ('Fabrice', 'Munyampundu', 'Kigali Main Branch', 'fabrice.munyampundu6@example.com');
+INSERT INTO loan_officer (first_name, last_name, branch, email) VALUES ('Sandra', 'Uwitonze', 'Rwamagana Branch', 'sandra.uwitonze7@example.com');
+INSERT INTO loan_officer (first_name, last_name, branch, email) VALUES ('Gilbert', 'Mukanyange', 'Kigali Main Branch', 'gilbert.mukanyange8@example.com');
+INSERT INTO loan_officer (first_name, last_name, branch, email) VALUES ('Mireille', 'Habineza', 'Nyagatare Branch', 'mireille.habineza9@example.com');
+INSERT INTO loan_officer (first_name, last_name, branch, email) VALUES ('Aimable', 'Mukamurenzi', 'Kigali Main Branch', 'aimable.mukamurenzi10@example.com');
+INSERT INTO loan_officer (first_name, last_name, branch, email) VALUES ('Jean Paul', 'Niyonsaba', 'Kigali Main Branch', 'jeanpaul.niyonsaba11@example.com');
+INSERT INTO loan_officer (first_name, last_name, branch, email) VALUES ('Claudine', 'Habimana', 'Kigali Main Branch', 'claudine.habimana12@example.com');
+INSERT INTO loan_officer (first_name, last_name, branch, email) VALUES ('Innocent', 'Mukandamutsa', 'Gicumbi Branch', 'innocent.mukandamutsa13@example.com');
+INSERT INTO loan_officer (first_name, last_name, branch, email) VALUES ('Liliane', 'Uwimana', 'Kigali Main Branch', 'liliane.uwimana14@example.com');
+INSERT INTO loan_officer (first_name, last_name, branch, email) VALUES ('Claude', 'Habyarimana', 'Karongi Branch', 'claude.habyarimana15@example.com');
+INSERT INTO loan_officer (first_name, last_name, branch, email) VALUES ('Alice', 'Murebwayire', 'Kigali Main Branch', 'alice.murebwayire16@example.com');
+INSERT INTO loan_officer (first_name, last_name, branch, email) VALUES ('Fabrice', 'Rutagengwa', 'Muhanga Branch', 'fabrice.rutagengwa17@example.com');
+INSERT INTO loan_officer (first_name, last_name, branch, email) VALUES ('Jean', 'Munyandamutsa', 'Kigali Main Branch', 'jean.munyandamutsa18@example.com');
+INSERT INTO loan_officer (first_name, last_name, branch, email) VALUES ('Emmanuel', 'Habiyaremye', 'Kigali Main Branch', 'emmanuel.habiyaremye19@example.com');
+INSERT INTO loan_officer (first_name, last_name, branch, email) VALUES ('Sandra', 'Mukanyange', 'Rwamagana Branch', 'sandra.mukanyange20@example.com');
